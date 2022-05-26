@@ -34,6 +34,7 @@ Kaydetme işlemini başvurduğum ilanlar butonuna bastıktan sonra sol üstteki 
 Admin için ise admin eklediği bütün ilanları çıktı almak veya herhangi bir işlem için kullanmak üzere bilgisayarına excel,txt vb dosya türünde kayıt yapabilir.
 Admin kaydetme işlemi için ise ilanları datagridview'de listeledikten sonra admin ekranında sol üstte yer alan dosya sekmesinden yapabilir.<br>
 
+!!! Kayıt yapılırken dosyanın adı ile birlikte dosyanın uzantısı da yazılmalıdır. !!! Örn: ilanlarım.txt,ilanlarım.xls
 
 
 ![Screenshot_5](https://user-images.githubusercontent.com/83351907/170529528-6ca95f9c-1a38-413a-91b0-0b9e185259cf.png) <br>
