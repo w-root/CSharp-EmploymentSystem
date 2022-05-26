@@ -5,8 +5,7 @@
 	<h3>  Proje Amacı : Kişilerin sisteme kayıt olup iş aradıkları bir sistem </h3>
 
 Programı çalıştırdıktan sonra kullanıcı girişi için kayıt olup giriş yapılmalıdır. <br>  <br>
-Admin girişi için:  <br>  <br>
-
+Admin girişi için:  <br> 
 
 ```
 Email: admin  
